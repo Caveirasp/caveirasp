@@ -2,7 +2,7 @@
 
 Meu nome é cauã paião
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - UTILIZO esse espaço para minha organização e compartilhamento dos mau projetos desenvolvidos
 
