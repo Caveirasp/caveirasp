@@ -1,6 +1,6 @@
 ### BOA VINDAS AO MEU PERFIL 💙
 
-Meu nome é cauã paião
+Meu nome é cauã paixão
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
